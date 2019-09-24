@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/test/FaceSDKAndroid/facelibrary/libs/license.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/facelibrary/libs/license.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
