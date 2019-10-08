@@ -184,9 +184,9 @@ public class FaceRegisterActivity extends BaseActivity implements View.OnClickLi
                         }
                         startActivityForResult(proIntent, PICK_REG_VIDEO);
                         finish();
-
-                    }
                         break;
+                    }
+
                     default:
                         break;
                 }

@@ -213,8 +213,8 @@ public class CameraPreviewManager implements TextureView.SurfaceTextureListener 
                     cameraRotation = ORIENTATIONS.get(displayOrientation);
                     cameraRotation = getCameraDisplayOrientation(cameraRotation, cameraId);
                     mCamera.setDisplayOrientation(cameraRotation);
-                }
                     break;
+                }
                 case CAMERA_USB: {
                     mCamera.setDisplayOrientation(cameraRotation);
                 }

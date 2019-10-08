@@ -109,8 +109,9 @@ public class FaceConfigActivity extends BaseActivity implements CustomDialog.OnD
                     } else {
                         startActivity(new Intent(mContext, FaceRGBCloseDebugSearchActivity.class));
                     }
-                }
                     break;
+                }
+
                 case 3: { // NIR
                     if (isDebug) {
                         startActivity(new Intent(mContext, FaceRGBIROpenDebugSearchActivity.class));
